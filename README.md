@@ -1,1 +1,1 @@
-# Solving CTD Thermal-Lag Issue
+# Solving CTD Thermal-Lag Issues
